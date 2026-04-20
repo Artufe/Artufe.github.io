@@ -124,7 +124,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "abuikis@gmail.com",
+    YOUR_EMAIL: "arthur@buikis.com",
     YOUR_FONE: "+371 27848052",
     description: "",
     // creat an emailjs.com account 
