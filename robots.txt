@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+User-Agent: *
+Allow: /
+
+Host: https://arthur.buikis.com
+Sitemap: https://arthur.buikis.com/sitemap.xml
