@@ -17,4 +17,24 @@ export const site = {
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/arthur-buikis-002145151/' },
     { label: 'Upwork', href: 'https://www.upwork.com/freelancers/abuikis' },
   ],
+  bio: {
+    jobTitle: 'Senior software engineer',
+    location: { city: 'Riga', country: 'LV', timezone: 'Europe/Riga' },
+    summary:
+      'Backend and platform engineer based in Riga. Around twelve years in Python with Rust (PyO3) for hot paths. Currently working on a media-processing platform.',
+    knowsAbout: [
+      'Python',
+      'Rust',
+      'PyO3',
+      'Celery',
+      'Kubernetes',
+      'Postgres',
+      'Backend engineering',
+      'Platform engineering',
+      'Performance engineering',
+      'Data infrastructure',
+      'Web scraping',
+      'Machine learning systems',
+    ],
+  },
 };
