@@ -7,6 +7,7 @@ This site is a portfolio plus an ongoing notes section on AI in production. Pros
 ## Pages
 - [Home](https://arthur.buikis.com/): summary, featured work, current focus
 - [Notes](https://arthur.buikis.com/notes/): AI in production, not in pitches — short, opinionated takes from the senior-engineer side of AI/ML
+- [Subscribe](https://arthur.buikis.com/subscribe/): get notes in your inbox when they ship
 - [About](https://arthur.buikis.com/about/): background, working style
 - [Building](https://arthur.buikis.com/building/): what I'm currently shipping
 - [CV](https://arthur.buikis.com/cv/): full resume
